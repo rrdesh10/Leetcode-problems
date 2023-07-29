@@ -1,4 +1,5 @@
 # Leetcode-problems
+
 <h2> Arrays</h2>
 1) 3Sum
 2) Two_sum
@@ -8,3 +9,6 @@
 6) max_subarray_sum
 7) Search_in_rotated_sorted_array
 8) Best_time_to_buy_sell_stock
+
+<h2> Strings</h2>
+1) Longest_substring_without_repeating
