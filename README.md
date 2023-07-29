@@ -1,1 +1,10 @@
 # Leetcode-problems
+<h2> Arrays</h2>
+1) 3Sum
+2) Two_sum
+3) Container_with_most_water
+4) contains_duplicate
+5) product_of_array_except_self
+6) max_subarray_sum
+7) Search_in_rotated_sorted_array
+8) Best_time_to_buy_sell_stock
