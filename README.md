@@ -12,3 +12,4 @@
 
 <h2> Strings</h2>
 1) Longest_substring_without_repeating
+2) valid_anagrama
