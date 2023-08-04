@@ -14,3 +14,5 @@
 1) Longest_substring_without_repeating
 2) valid_anagrama
 3) valid_palindrome
+4) group-anagrams
+5) Palindromic-substring
