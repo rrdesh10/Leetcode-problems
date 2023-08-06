@@ -16,3 +16,4 @@
 3) valid_palindrome
 4) group-anagrams
 5) Palindromic-substring
+6) Longest-repeating-char-replacement
