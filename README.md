@@ -17,3 +17,4 @@
 4) group-anagrams
 5) Palindromic-substring
 6) Longest-repeating-char-replacement
+7) Valid parentheses
