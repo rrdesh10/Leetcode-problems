@@ -11,6 +11,7 @@
  <li>Search_in_rotated_sorted_array</li>
  <li>Best_time_to_buy_sell_stock</li>
  <li>Find-minimun-rotated-sorted-array</li>
+ <li>maximum-subarray-sum</li>
 </ul>
 
 <h2> Strings</h2>
