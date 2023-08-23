@@ -24,3 +24,9 @@
 <li> Longest-repeating-char-replacement</li>
 <li> Valid parentheses</li>
 </ul>
+
+<h3> Matrix </h3>
+<ul>
+<li>Set matrix zeroes</li>
+<li>Spiral Matrix</li>
+</ul>
