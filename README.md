@@ -29,4 +29,5 @@
 <ul>
 <li>Set matrix zeroes</li>
 <li>Spiral Matrix</li>
+<li>Word Search</li>
 </ul>
